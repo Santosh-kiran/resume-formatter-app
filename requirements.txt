@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+python-docx
+spacy
+pdfplumber
+python-docx
+striprtf
+odfpy
+pydantic
